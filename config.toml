@@ -6,6 +6,7 @@ copyright = "© Shu Yoshioka"
 # Code Highlight
 pygmentsstyle = "monokai"
 pygmentscodefences = true
+relativeURLs = true
 pygmentscodefencesguesssyntax = true
 
 paginate=20 # articles per page
